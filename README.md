@@ -28,3 +28,5 @@ Most similar words
 One way to check if we have a good word2vec model is to use the model to find the most similar words to a specific word. For that, we can use the most_similar function that returns the 10 most similar words to the given word. Let's find the most similar words to the word blue.
 
 most similar words image
+
+corpus was taken from this link: http://jmcauley.ucsd.edu/data/amazon/ ("Health and Personal Care")
