@@ -1,7 +1,6 @@
 # Word2Vec-model-for-dowloaded-data
 
 English: Build and visualize Word2Vec model with Gensim
-This code belongs to the "Build and Visualize Word2Vec Model on Amazon Reviews" blog post.
 
 Word2vec is a very popular Natural Language Processing technique nowadays that uses a neural network to learn the vector representations of words called "word embeddings" in a particular text.
 
@@ -30,7 +29,6 @@ corpus was taken from this link: http://jmcauley.ucsd.edu/data/amazon/ ("Health 
 На русском: # Word2Vec-model-for-dowloaded-data
 
 Создать и визуализировать модель Word2Vec с помощью Gensim
-Этот код относится к сообщению блога «Создание и визуализация модели Word2Vec в обзорах Amazon».
 
 Word2vec - это очень популярный в настоящее время метод обработки естественного языка, который использует нейронную сеть для изучения векторных представлений слов, называемых «встраиваниями слов» в конкретный текст.
 
